@@ -1,0 +1,28 @@
+.card {
+      display: flex;
+      flex-direction: column;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      background-color: white;
+      width: 300px;
+      margin: 2%;
+      height:400px;
+      padding-bottom: 5%;
+      color: black;
+      background-size: contain;
+      background-repeat: no-repeat;
+    }
+
+    #spain {
+      background-image: url("/assets/images/spain_flag.svg")
+    }
+
+    #italy {
+      background-image: url("/assets/images/italy_flag.svg")
+    }
+    #aruba {
+      background-image: url("/assets/images/aruba_flag.svg")
+    }
+    #chile {
+      background-image: url("/assets/images/chile_flag.svg")
+    }
